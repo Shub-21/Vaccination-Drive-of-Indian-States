@@ -1,4 +1,5 @@
 # Vaccination-Drive-of-Indian-States
+
 EDA on the data and Time series forecasting method to forecast the estimated date of ending of vaccination drive
 
 The worldwide spread of Covid-19 caused a nationwide lockdown in India from 24th
@@ -13,9 +14,8 @@ States. And I found out that the Vaccination drive is high in the state of Mahar
 followed by Uttar Pradesh, West Bengal, Kerala and Delhi. The Covishield production is 
 higher compared to the Covaxin production. And the total male individual vaccinated is 
 more than the female and transgender individual in every state except the Kerala.
-I have used time series forecasting method to forecast the estimated date of 
-ending of vaccination drive.
 
-Through my findings I can say that the nationwide vaccination might end near 
+I have used time series forecasting method to forecast the estimated date of 
+ending of vaccination drive.Through my findings I can say that the nationwide vaccination might end near 
 between September and November of 2022. But that is a hypothetical fact based on these 
 5 States i.e. the nationwide Vaccination might end earlier or later the given period.
